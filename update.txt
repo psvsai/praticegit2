@@ -1,0 +1,16 @@
+Today 04-10-2024
+Worked on git commands , Which are useful for the now , which are mandatory upto now.
+There are many more to learn, Without pratice u r not going to finish the ccourse
+mainly about JAVA, yes ,iknow java is not that easy language to learn or code,by pratice and learning it daily can boot  u lot of confidence.
+About Spring boot 
+Simple words about spring boot,spring boot is a backend which we can develop the website,by using frameworks.\
+By using spring intializer we have to generator spring web, spring jpa, H2 db
+pom.xml is like json. in java that we have the dependency.
+mainly in spring boot there are few components , there are 
+1) controller
+2) entity
+3) service
+4) repository
+here,when we want add configuration for login page
+5) config is a component
+and by using database we can create table by using sql, mongodb
