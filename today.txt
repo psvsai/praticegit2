@@ -1,0 +1,2 @@
+here we learn about how git can helps to connect different to different codes into one single code and we can merge the file into a single file.
+Git have many command which help to presform the task in a better manner
